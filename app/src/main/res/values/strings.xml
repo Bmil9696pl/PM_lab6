@@ -1,0 +1,4 @@
+<resources>
+    <string name="button_fragment1">Fragment 1</string>
+    <string name="button_fragment2">Fragment 2</string>
+</resources>
